@@ -29,3 +29,7 @@ navigation:
     url: 'http://stockportcctv.co.uk/testimonials.html'
     name: Testimonials
     type: external
+  - id: 'http://stockportcctv.co.uk/contact-us.html'
+    url: 'http://stockportcctv.co.uk/contact-us.html'
+    name: Contact Us
+    type: external
