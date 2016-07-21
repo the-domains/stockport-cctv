@@ -6,9 +6,14 @@ color:
   saturation: 0.20122157339937985
   rhythmicContrast: 0.06749892234802246
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Stockport CCTV
+navigation:
+  - id: 'http://stockportcctv.co.uk/index.html'
+    url: 'http://stockportcctv.co.uk/index.html'
+    name: Home
+    type: external
