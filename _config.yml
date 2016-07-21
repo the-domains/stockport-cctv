@@ -17,3 +17,7 @@ navigation:
     url: 'http://stockportcctv.co.uk/index.html'
     name: Home
     type: external
+  - id: 'http://stockportcctv.co.uk/about-us.html'
+    url: 'http://stockportcctv.co.uk/about-us.html'
+    name: About Us
+    type: external
