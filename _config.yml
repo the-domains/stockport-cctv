@@ -25,3 +25,7 @@ navigation:
     url: 'http://stockportcctv.co.uk/cameras.html'
     name: Cameras
     type: external
+  - id: 'http://stockportcctv.co.uk/testimonials.html'
+    url: 'http://stockportcctv.co.uk/testimonials.html'
+    name: Testimonials
+    type: external
