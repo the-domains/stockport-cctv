@@ -1,4 +1,3 @@
-layout_spectrum: 0.1545059101190418
 typography_spectrum: 0.6274519504513592
 color:
   brandStrength: 0.8110639890655875
@@ -11,6 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.1545059101190418
 name: Stockport CCTV
 navigation:
   - id: 'http://stockportcctv.co.uk/index.html'
@@ -33,3 +33,4 @@ navigation:
     url: 'http://stockportcctv.co.uk/contact-us.html'
     name: Contact Us
     type: external
+title: Your Security One Camera At A Time
