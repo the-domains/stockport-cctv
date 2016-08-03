@@ -10,27 +10,29 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/008d7717-5509-440a-af5c-777f625149bf.jpg
 layout_spectrum: 0.1545059101190418
+author:
+  name: Stuart G
+  email: stu@stockportcctv.co.uk
+  url: 'http://stockportcctv.co.uk'
 name: Stockport CCTV
 navigation:
-  - id: 'http://stockportcctv.co.uk/index.html'
+  - name: Home
     url: 'http://stockportcctv.co.uk/index.html'
-    name: Home
     type: external
-  - id: 'http://stockportcctv.co.uk/about-us.html'
+  - name: About Us
     url: 'http://stockportcctv.co.uk/about-us.html'
-    name: About Us
     type: external
-  - id: 'http://stockportcctv.co.uk/cameras.html'
+  - name: Cameras
     url: 'http://stockportcctv.co.uk/cameras.html'
-    name: Cameras
     type: external
-  - id: 'http://stockportcctv.co.uk/testimonials.html'
+  - name: Testimonials
     url: 'http://stockportcctv.co.uk/testimonials.html'
-    name: Testimonials
     type: external
-  - id: 'http://stockportcctv.co.uk/contact-us.html'
+  - name: Contact Us
     url: 'http://stockportcctv.co.uk/contact-us.html'
-    name: Contact Us
     type: external
 title: Your Security One Camera At A Time
